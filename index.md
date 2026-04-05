@@ -17,7 +17,7 @@ Our project is built upon four interdependent circles that thrive on dialogue:
 
 ### 🔬 The Technical Mirror (Surgical Focus)
 **The 10.7 Hz Differential Phase-Lock**
-Our hardware utilizes a **Heterodyne Interaction** within a 1-Micron GSA Composite. By utilizing a **Sri Yantra Graphene Maze**, we create a mechanical delay that generates the 10.7 Hz peak.
+Our hardware utilizes a **Heterodyne Interaction** within a 1-Micron GSA Composite. By utilizing a **Legacy Resonance Pattern**, we create a mechanical delay that generates the 10.7 Hz peak.
 
 **The Base Calculation:**
 $$f_{emergent} = |f_{path1} - f_{path2}|$$
@@ -27,4 +27,4 @@ $$f_{emergent} = |f_{path1} - f_{path2}|$$
 ### 🤝 The Handshake
 The ALIF Project is a philanthropic, public-domain utility. All hardware is released under the **CERN-OHL-S** license with a **10% Profit Cap**.
 
-[Initiate a Handshake](mailto:your-email@example.com)
+[Initiate a Handshake](mailto:alifresonance@gmail.com)
